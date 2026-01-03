@@ -51,10 +51,10 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
 ## What’s on the Workbench 🏗️
 
-  
+- 🛡️ [**ZoneGuard**]: Secures env files from Coding Agents - Closed Source
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
 - 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
-- [**Brain Rot Rescue**](https://github.com/benithors/brain-rot-rescue): Tools to save your attention span from the doomscroll.
+- 🫧 [**Brain Rot Rescue**](https://github.com/benithors/brain-rot-rescue): Tools to save your attention span from the doomscroll.
   
 
 ***
