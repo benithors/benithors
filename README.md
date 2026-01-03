@@ -33,7 +33,7 @@ If the vibes are off, the code won’t compile.
 
   
 
-I’m diving deep into **Vibe Engineering** – AI + flow states + better tooling to reclaim sanity.
+I’m diving deep into **Vibe Engineering**: AI + flow states + better tooling to reclaim sanity.
 
 I document the whole journey on YouTube because **gatekeeping knowledge is lame**.
 
@@ -52,11 +52,11 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 ## What’s on the Workbench 🏗️
 
   
-• 🧺 **Picnic** – lightweight capture + curation experiments  
+• 🧺 **Picnic**: lightweight capture + curation experiments  
   https://github.com/benithors/picnic
-• 🎬 **OpenYTClipper** – Manually clipping videos is boring. I fixed it.  
+• 🎬 **OpenYTClipper**: Manually clipping videos is boring. I fixed it.  
   https://github.com/benithors/OpenYTClipper
-• **Brain Rot Rescue** – Tools to save your attention span from the doomscroll.  
+• **Brain Rot Rescue**: Tools to save your attention span from the doomscroll.  
   https://github.com/benithors/brain-rot-rescue
   
 
