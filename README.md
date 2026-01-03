@@ -52,12 +52,12 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 ## What’s on the Workbench 🏗️
 
   
-1. 🧺 **Picnic**: lightweight capture + curation experiments  
-   https://github.com/benithors/picnic
-2. 🎬 **OpenYTClipper**: Manually clipping videos is boring. I fixed it.  
-   https://github.com/benithors/OpenYTClipper
-3. **Brain Rot Rescue**: Tools to save your attention span from the doomscroll.  
-   https://github.com/benithors/brain-rot-rescue
+- 🧺 **Picnic**: lightweight capture + curation experiments  
+  https://github.com/benithors/picnic
+- 🎬 **OpenYTClipper**: Manually clipping videos is boring. I fixed it.  
+  https://github.com/benithors/OpenYTClipper
+- **Brain Rot Rescue**: Tools to save your attention span from the doomscroll.  
+  https://github.com/benithors/brain-rot-rescue
   
 
 ***
@@ -68,10 +68,10 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-1. 🐦 **X** [@benithors](https://twitter.com/benithors)
-2. 💼 **LinkedIn:** [benithors](https://www.linkedin.com/in/benithors/)
-3. 🌐 **Website:** https://kylo.at
-4. 💬 **Discord Community(German):** discord.gg/QgwBVsMSsD
+- 🐦 **X** [@benithors](https://twitter.com/benithors)
+- 💼 **LinkedIn:** [benithors](https://www.linkedin.com/in/benithors/)
+- 🌐 **Website:** https://kylo.at
+- 💬 **Discord Community(German):** discord.gg/QgwBVsMSsD
 
   
   
@@ -82,8 +82,8 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-1. 13+ years building software
-2. Freelance Engineering Leader: lead teams, fix processes, kill toil
+- 13+ years building software
+- Freelance Engineering Leader: lead teams, fix processes, kill toil
 
   
 
