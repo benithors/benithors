@@ -39,7 +39,7 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-📺 **Channel:** https://www.youtube.com/@Benjamin_Thorstensen
+📺 **Channel:** [YouTube](https://www.youtube.com/@Benjamin_Thorstensen)
 
 **What you’ll get:** practical tool reviews + workflows that actually reduce busywork
 
@@ -53,11 +53,11 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 - 🧺 **Picnic**: lightweight capture + curation experiments  
-  https://github.com/benithors/picnic
+  [Repository](https://github.com/benithors/picnic)
 - 🎬 **OpenYTClipper**: Manually clipping videos is boring. I fixed it.  
-  https://github.com/benithors/OpenYTClipper
+  [Repository](https://github.com/benithors/OpenYTClipper)
 - **Brain Rot Rescue**: Tools to save your attention span from the doomscroll.  
-  https://github.com/benithors/brain-rot-rescue
+  [Repository](https://github.com/benithors/brain-rot-rescue)
   
 
 ***
@@ -70,8 +70,8 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
 - 🐦 **X** [@benithors](https://twitter.com/benithors)
 - 💼 **LinkedIn:** [benithors](https://www.linkedin.com/in/benithors/)
-- 🌐 **Website:** https://kylo.at
-- 💬 **Discord Community(German):** discord.gg/QgwBVsMSsD
+- 🌐 **Website:** [kylo.at](https://kylo.at)
+- 💬 **Discord Community(German):** [Join](https://discord.gg/QgwBVsMSsD)
 
   
   
