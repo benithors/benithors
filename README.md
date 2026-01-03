@@ -52,12 +52,9 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 ## What’s on the Workbench 🏗️
 
   
-- 🧺 **Picnic**: lightweight capture + curation experiments  
-  [Repository](https://github.com/benithors/picnic)
-- 🎬 **OpenYTClipper**: Manually clipping videos is boring. I fixed it.  
-  [Repository](https://github.com/benithors/OpenYTClipper)
-- **Brain Rot Rescue**: Tools to save your attention span from the doomscroll.  
-  [Repository](https://github.com/benithors/brain-rot-rescue)
+- 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
+- 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
+- [**Brain Rot Rescue**](https://github.com/benithors/brain-rot-rescue): Tools to save your attention span from the doomscroll.
   
 
 ***
