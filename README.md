@@ -6,13 +6,13 @@
 
   
 
-> I test bleeding-edge tech so you don’t have to bleed.
+> I test bleeding edge tech so you don’t have to bleed.
 
 > My job: filter noise → ship faster → work smarter → stop wasting life on repetitive tasks.
 
   
 
----
+***
 
   
 ## Tooling / Interests
@@ -21,7 +21,7 @@
 
   
 
----
+***
 
   
 
@@ -33,7 +33,7 @@ If the vibes are off, the code won’t compile.
 
   
 
-I’m diving deep into **Vibe Engineering** — AI + flow states + better tooling to reclaim sanity.
+I’m diving deep into **Vibe Engineering** – AI + flow states + better tooling to reclaim sanity.
 
 I document the whole journey on YouTube because **gatekeeping knowledge is lame**.
 
@@ -45,22 +45,22 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
----
+***
 
   
 
 ## What’s on the Workbench 🏗️
 
   
-- 🧺 **Picnic** — lightweight capture + curation experiments  
+• 🧺 **Picnic** – lightweight capture + curation experiments  
   https://github.com/benithors/picnic
-- 🎬 **OpenYTClipper** — Manually clipping videos is boring. I fixed it.  
+• 🎬 **OpenYTClipper** – Manually clipping videos is boring. I fixed it.  
   https://github.com/benithors/OpenYTClipper
-- **Brain Rot Rescue** — Tools to save your attention span from the doomscroll.  
+• **Brain Rot Rescue** – Tools to save your attention span from the doomscroll.  
   https://github.com/benithors/brain-rot-rescue
   
 
----
+***
 
   
 
@@ -68,13 +68,13 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-- 🐦 **X ** [@benithors](https://twitter.com/benithors)
+• 🐦 **X ** [@benithors](https://twitter.com/benithors)
 
-- 💼 **LinkedIn:** [benithors](https://www.linkedin.com/in/benithors/)
+• 💼 **LinkedIn:** [benithors](https://www.linkedin.com/in/benithors/)
 
-- 🌐 **Website:** https://kylo.at
+• 🌐 **Website:** https://kylo.at
 
-- 💬 **Discord Community(German):** discord.gg/QgwBVsMSsD
+• 💬 **Discord Community(German):** discord.gg/QgwBVsMSsD
 
   
   
@@ -85,9 +85,9 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-- 13+ years building software
+• 13+ years building software
 
-- Freelance Engineering Leader: lead teams, fix processes, kill toil
+• Freelance Engineering Leader: lead teams, fix processes, kill toil
 
   
 
