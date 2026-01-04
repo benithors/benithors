@@ -17,7 +17,7 @@
   
 ## Tooling / Interests
 
-![AI](https://img.shields.io/badge/-AI_Workflows-111111?style=flat-square) ![Developer Experience](https://img.shields.io/badge/-Developer_Experience-111111?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-111111?style=flat-square) ![Productivity](https://img.shields.io/badge/-Productivity-111111?style=flat-square) ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![AI](https://img.shields.io/badge/-AI_Workflows-111111?style=flat-square) ![Developer Experience](https://img.shields.io/badge/-Developer_Experience-111111?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-111111?style=flat-square) ![Productivity](https://img.shields.io/badge/-Productivity-111111?style=flat-square) ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-111111?style=flat-square) ![Codex](https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white) ![Web](https://img.shields.io/badge/-Web-111111?style=flat-square)
 
   
 
@@ -53,6 +53,7 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
 - 🛡️ **ZoneGuard**: Secures env files from Coding Agents - Closed Source - Coming Soon
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
+- 🍺 [**Homebrew Tap**](https://github.com/benithors/homebrew-tap): Easy installation for my CLI tools.
 - 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
 - 🫧 [**Brain Rot Rescue**](https://github.com/benithors/brain-rot-rescue): Tools to save your attention span from the doomscroll.
   
