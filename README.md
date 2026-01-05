@@ -49,9 +49,10 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 
   
 
-## What’s on the Workbench 🏗️
+## What's on the Workbench 🏗️
 
 - 🛡️ **ZoneGuard**: Secures env files from Coding Agents - Closed Source - Coming Soon
+- 🍿 [**cinecli**](https://github.com/benithors/cinecli): CLI for browsing Cineplexx Austria cinemas, movies & showtimes
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
 - 🍺 [**Homebrew Tap**](https://github.com/benithors/homebrew-tap): Easy installation for my CLI tools.
 - 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
