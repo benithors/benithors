@@ -52,6 +52,7 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 ## What's on the Workbench 🏗️
 
 - 🛡️ **ZoneGuard**: Secures env files from Coding Agents - Closed Source - Coming Soon
+- 🛒 [**brings-cli**](https://github.com/benithors/brings-cli): CLI for Bring! shopping lists - manage lists, add recipes with scaled ingredients
 - 🍿 [**cinecli**](https://github.com/benithors/cinecli): CLI for browsing Cineplexx Austria cinemas, movies & showtimes
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
 - 🍺 [**Homebrew Tap**](https://github.com/benithors/homebrew-tap): Easy installation for my CLI tools.
