@@ -2,7 +2,7 @@
 
   
 
-📍 **Vienna 🇦🇹 / 🇳🇴** · **Engineering Leader** · ⚡ **Efficiency addict**
+📍 **Vienna 🇦🇹 / 🇳🇴** · **Engineering Lead** · ⚡ **Efficiency addict**
 
   
 
