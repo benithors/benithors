@@ -52,8 +52,9 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 ## What's on the Workbench 🏗️
 
 - 🛡️ **ZoneGuard**: Secures env files from Coding Agents - Closed Source - Coming Soon
-- 🛒 [**brings-cli**](https://github.com/benithors/brings-cli): CLI for Bring! shopping lists - manage lists, add recipes with scaled ingredients
+- 🛒 [**brings-cli**](https://github.com/benithors/brings-cli): Go CLI for Bring! shopping lists - manage lists, add recipes with scaled ingredients
 - 🍿 [**cinecli**](https://github.com/benithors/cinecli): CLI for browsing Cineplexx Austria cinemas, movies & showtimes
+- 🔎 [**dothuntcli**](https://github.com/benithors/dothuntcli): Go CLI to hunt for available domains (RDAP/WHOIS + optional registrar buyable checks)
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
 - 🍺 [**Homebrew Tap**](https://github.com/benithors/homebrew-tap): Easy installation for my CLI tools.
 - 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
