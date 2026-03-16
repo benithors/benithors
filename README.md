@@ -25,7 +25,7 @@
 
   
 
-## Current Obsession: Vibe Engineering
+## Current Obsession: Agentic Engineering
 
   
 
@@ -33,7 +33,7 @@ If the vibes are off, the code won’t compile.
 
   
 
-I’m diving deep into **Vibe Engineering**: AI + flow states + better tooling to reclaim sanity.
+I’m diving deep into **Agentic Engineering**: AI + flow states + better tooling to reclaim sanity.
 
 I document the whole journey on YouTube because **gatekeeping knowledge is lame**.
 
