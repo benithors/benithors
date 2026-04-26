@@ -58,6 +58,7 @@ I document the whole journey on YouTube because **gatekeeping knowledge is lame*
 - 🧺 [**Picnic**](https://github.com/benithors/picnic): lightweight capture + curation experiments
 - 🍺 [**Homebrew Tap**](https://github.com/benithors/homebrew-tap): Easy installation for my CLI tools.
 - 🎬 [**OpenYTClipper**](https://github.com/benithors/OpenYTClipper): Manually clipping videos is boring. I fixed it.
+- 🎞️ [**OpenCaption**](https://github.com/benithors/OpenCaption): macOS desktop app for burning styled captions into social videos
 - 🫧 [**Brain Rot Rescue**](https://github.com/benithors/brain-rot-rescue): Tools to save your attention span from the doomscroll.
   
 
